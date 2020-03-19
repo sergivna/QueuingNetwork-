@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SMO_Lab3/1.0.0": {
+        "runtime": {
+          "SMO_Lab3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SMO_Lab3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

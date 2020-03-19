@@ -1,0 +1,11 @@
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\bin\Debug\netcoreapp3.0\SMO_Lab3.exe
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\bin\Debug\netcoreapp3.0\SMO_Lab3.deps.json
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\bin\Debug\netcoreapp3.0\SMO_Lab3.runtimeconfig.json
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\bin\Debug\netcoreapp3.0\SMO_Lab3.runtimeconfig.dev.json
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\bin\Debug\netcoreapp3.0\SMO_Lab3.dll
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\bin\Debug\netcoreapp3.0\SMO_Lab3.pdb
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\obj\Debug\netcoreapp3.0\SMO_Lab3.csprojAssemblyReference.cache
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\obj\Debug\netcoreapp3.0\SMO_Lab3.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\obj\Debug\netcoreapp3.0\SMO_Lab3.AssemblyInfo.cs
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\obj\Debug\netcoreapp3.0\SMO_Lab3.dll
+C:\Users\Julia\source\repos\SMO_Lab3\SMO_Lab3\obj\Debug\netcoreapp3.0\SMO_Lab3.pdb
